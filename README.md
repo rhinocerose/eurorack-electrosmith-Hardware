@@ -1,6 +1,6 @@
 ## Hardware
 
-Documentation and reference circuits for Electrosmith submodules and boards including the [Daisy Embedded Audio Platform.](https://www.electro-smith.com/daisy)
+Documentation and reference circuits for Electrosmith hardware designs including the [Daisy Embedded Audio Platform.](https://www.electro-smith.com/daisy)
 
 ### Features
 
@@ -10,7 +10,7 @@ Documentation and reference circuits for Electrosmith submodules and boards incl
 
 - EAGLE files for hardware examples
 
-- Fritzing breadboard diagrams and schematics (coming soon)
+- Fritzing breadboard diagrams and schematics
 
 ### Getting Started
 - Check out our [Getting Started wiki page](https://github.com/electro-smith/DaisyWiki/wiki/1.-Getting-Started)
@@ -27,13 +27,11 @@ Here are some ways that you can get involved:
 
 Here are some ways to get support and connect with other users and developers:
 
-- [Make an issue](https://github.com/electro-smith/hardware/issues) 
+- Join the [Daisy Forum](https://forum.electro-smith.com/)
 
-- Slack Workspace - shoot us an email at hello(at)electro-smith(dot)com to receive an invitation
+- Make a [GitHub Issue](https://github.com/electro-smith/hardware/issues) 
 
-- Tech Support - for the best response, please use our [contact form](https://www.electro-smith.com/contact)
-
-- Forum (Coming soon)
+- Join the [Daisy Slack Workspace](https://join.slack.com/t/es-daisy/shared_invite/zt-f9cfm1g4-DgdCok1h1Rj4fpX90~IOww)
 
 
 ### License
