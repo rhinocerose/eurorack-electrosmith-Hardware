@@ -1,8 +1,8 @@
-## Hardware
+# Hardware
 
 Documentation and reference circuits for Electrosmith hardware designs including the [Daisy Embedded Audio Platform.](https://www.electro-smith.com/daisy)
 
-### Features
+## Features
 
 - Reference schematics for existing hardware designs
 
@@ -12,18 +12,18 @@ Documentation and reference circuits for Electrosmith hardware designs including
 
 - Fritzing breadboard diagrams and schematics
 
-### Getting Started
+## Getting Started
 - Check out our [Getting Started wiki page](https://github.com/electro-smith/DaisyWiki/wiki/1.-Getting-Started)
 - Make some sound!
 
-### Contributing
+## Contributing
 
 Here are some ways that you can get involved:
 - Proof read the documentation and suggest improvements
 - Make Fritzing breadboard diagrams for common circuits
 - Submit your own hardware examples for inclusion to the repo
 
-### Support
+## Support
 
 Here are some ways to get support and connect with other users and developers:
 
@@ -34,7 +34,7 @@ Here are some ways to get support and connect with other users and developers:
 - Join the [Daisy Slack Workspace](https://join.slack.com/t/es-daisy/shared_invite/zt-f9cfm1g4-DgdCok1h1Rj4fpX90~IOww)
 
 
-### License
+## License
 This repository is licensed with the permissive MIT open source license. 
 
 This allows for modification and reuse in both commercial and personal projects. 
