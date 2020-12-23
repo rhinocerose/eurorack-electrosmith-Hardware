@@ -13,7 +13,7 @@ Documentation and reference circuits for Electrosmith hardware designs including
 - Fritzing breadboard diagrams and schematics
 
 ## Getting Started
-- Check out our [Getting Started wiki page](https://github.com/electro-smith/DaisyWiki/wiki/1.-Getting-Started)
+- Check out our [wiki](https://github.com/electro-smith/DaisyWiki/wiki)
 - Make some sound!
 
 ## Contributing
